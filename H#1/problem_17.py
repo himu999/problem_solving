@@ -6,6 +6,7 @@ while i <= t:
 
     vowel = ["A", "E", "I", "O", "U", "a", "e", "i", "o", "u"]
     cont = 0
+
     line = input()
     list(line)
 
