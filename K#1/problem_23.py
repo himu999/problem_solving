@@ -20,12 +20,3 @@ while i <= t:
     print()
 
     i = i + 1
-
-# n = int(input())
-# l = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-# for i in range(n):
-#     st = input()
-#     n_st = ''
-#     for k in st:
-#         n_st+= str(l.index(k)+1)
-#     print(n_st)
