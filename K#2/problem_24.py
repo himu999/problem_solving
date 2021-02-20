@@ -19,22 +19,3 @@ while i <= t:
             print(my_list[k])
 
     i = i + 1
-
-
-# tt = int(input())
-#
-# while (tt):
-#
-#     n = int(input())
-#     stri = input()
-#     my_list = stri.split(' ')
-#     ans_list = []
-#
-#     ans = ""
-#     for i in range(0, n, 2):
-#         if (i):
-#             ans += ' '
-#         ans += str(my_list[i])
-#
-#     print(ans)
-#     tt -= 1
